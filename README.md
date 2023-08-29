@@ -1,0 +1,1 @@
+This is the source code to Shiqi Lou's public academic website: https://lousq17.github.io/. The template is adapted from Jon Barron's website: https://jonbarron.info/.
